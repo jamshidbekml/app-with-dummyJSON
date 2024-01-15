@@ -1,0 +1,13 @@
+body {
+    margin: 0 !important;
+    background-color: #f1efef;
+}
+
+.header-nav_link {
+    text-decoration: none;
+    color: #000;
+}
+
+.header-nav_link-active {
+    color: #0866ff;
+}
